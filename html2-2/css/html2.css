@@ -4,8 +4,12 @@ body {
 
 button {
 font-family: Arial;
- font-size: 50pt; 
- background-color: #00FF00";
+  text-align: center;
+  color: #000;
+  margin: 10px;
+  border-radius: 50px;
+ font-size: 40pt; 
+ background-color: #155d74";
 }
 
 .box {
