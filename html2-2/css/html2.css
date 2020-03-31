@@ -1,6 +1,6 @@
 body {
   margin: 40px;
-  color: #ffff99
+  background-color: #ffff99
 }
 
 button {
@@ -15,7 +15,7 @@ font-family: Arial;
 
 .box {
   background-color: #444;
-  color: #ffff99;
+  color: #fff;
   border-radius: 5px;
   padding: 20px;
   font-size: 300%;
