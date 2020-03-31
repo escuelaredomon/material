@@ -1,7 +1,6 @@
 body {
   margin: 40px;
-  background-color: #ffff99
-}
+ }
 
 button {
 font-family: Arial;
@@ -10,7 +9,7 @@ font-family: Arial;
   margin: 10px;
   border-radius: 50px;
  font-size: 40pt; 
- background-color: #155d74";
+ background-color: #ffff99";
 }
 
 .box {
@@ -22,7 +21,7 @@ font-family: Arial;
 }
 
 .box:nth-child(even) {
-  background-color: #ccc;
+  background-color: #ffff99;
   color: #000;
 }
 
